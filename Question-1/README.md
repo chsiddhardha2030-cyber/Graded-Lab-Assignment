@@ -72,5 +72,17 @@ Output:
 Explanation:
 This command sends ICMP echo requests to Google to verify network connectivity. The successful replies confirm that the system has internet access.
 
+6. System Health Awareness
+
+Command:
+uptime
+
+Output:
+(System uptime, number of users, and load average displayed)
+
+Explanation:
+The uptime command shows how long the system has been running, the number of logged-in users, and the load average over the last 1, 5, and 15 minutes.
+
+
 
 
