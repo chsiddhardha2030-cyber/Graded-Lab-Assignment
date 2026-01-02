@@ -39,3 +39,14 @@ Output:
 Explanation:
 This command lists all files and directories in the current location using long format, showing permissions, ownership, size, and timestamps.
 
+3. Learning the Tools
+
+Command:
+man mkdir
+
+Useful Option Identified:
+-p
+
+Explanation:
+The -p option allows creation of parent directories as needed and prevents errors if the directory already exists.
+
