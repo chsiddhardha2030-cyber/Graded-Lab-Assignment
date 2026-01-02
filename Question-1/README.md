@@ -50,3 +50,15 @@ Useful Option Identified:
 Explanation:
 The -p option allows creation of parent directories as needed and prevents errors if the directory already exists.
 
+4. Home Directory Inspection
+
+Command:
+ls ~
+
+Output:
+(No files or directories listed)
+
+Explanation:
+This command lists the contents of my home directory. Since it is a new environment, the home directory is empty, so no output was displayed.
+
+
