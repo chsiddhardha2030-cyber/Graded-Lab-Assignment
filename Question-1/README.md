@@ -61,4 +61,16 @@ Output:
 Explanation:
 This command lists the contents of my home directory. Since it is a new environment, the home directory is empty, so no output was displayed.
 
+5. Network Connectivity Test
+
+Command:
+ping -c 4 www.google.com
+
+Output:
+4 packets transmitted, 4 received
+
+Explanation:
+This command sends ICMP echo requests to Google to verify network connectivity. The successful replies confirm that the system has internet access.
+
+
 
